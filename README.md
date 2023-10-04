@@ -1,1 +1,1 @@
-# LibraryManagement
+A Library Management System is a system that is used to maintain the records of the library. It contains work like the number of the available books, the number of books issued, the number of books to return or renew.
